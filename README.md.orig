@@ -3,4 +3,8 @@
 ローカルリポで変更
 rebase-practiceで変更(conflict用)
 rebase用
+<<<<<<< Updated upstream
+stash練習 trach済み
+=======
 stash練習
+>>>>>>> Stashed changes
